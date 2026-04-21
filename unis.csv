@@ -1,0 +1,14 @@
+Name,Location,Min_GPA,Max_Tuition,Strengths,Program_Type,Acceptance_Rate
+National University of Singapore,Singapore,3.7,20000,AI/ML Research Entrepreneurship,Public,8
+Nanyang Technological University,Singapore,3.6,19000,Robotics Computer Vision Engineering,Public,12
+Stanford University,USA,3.9,60000,AI Entrepreneurship VC Access,Private,4
+Massachusetts Institute of Technology,USA,3.9,58000,Deep Tech Research Innovation,Private,4
+University of California Berkeley,USA,3.7,45000,CS Theory Systems AI,Public,14
+Carnegie Mellon University,USA,3.8,55000,Robotics AI Cybersecurity,Private,15
+University of Toronto,Canada,3.6,40000,Machine Learning NLP Healthcare AI,Public,18
+ETH Zurich,Switzerland,3.8,1500,Theoretical CS Systems Security,Public,10
+Imperial College London,UK,3.7,35000,AI Computing Visual Computing,Public,12
+Tsinghua University,China,3.8,5000,Systems AI Theory,Public,5
+BITS Pilani,India,3.0,15000,Engineering CS Entrepreneurship,Private,20
+IIT Bombay,India,3.8,10000,Systems Theory AI,Public,2
+University of Melbourne,Australia,3.3,32000,AI HCI Data Science,Public,25
